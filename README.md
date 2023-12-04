@@ -10,3 +10,4 @@
 
 # We Present our Observations on Knowledge distillation using 4 different models
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/IhsanKabir/Lung-Cancer-Deep-Learning/blob/main/Figures/Table%20Git.jpg)
+Table 1: Showcasing of models trained on the Lung Cancer detection data. The table shows 4 models: AlexNet, MobileNetv2, Our Model (for this experiment) and a ResNet18 model. The table shows that training with knowledge distillation is able to increase performances of model significantly.
