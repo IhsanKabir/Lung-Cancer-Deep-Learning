@@ -1,7 +1,7 @@
 # Utilizing Model Compression Techniques in Medical Imaging (Lung Cancer)
 
-* The code is the official implementation of the work for 499A and 499B namely Senior Capstone Design A and B. The Project is entitled: "#### Utilizing Model Compression Techniques in Medical Imaging (Lung Cancer)
-####"
+* The code is the official implementation of the work for 499A and 499B namely Senior Capstone Design A and B. The Project is entitled: "Utilizing Model Compression Techniques in Medical Imaging (Lung Cancer)"
+* Dataset Availability: https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset
 * Contributors: AKM Ihsan Kabir
 * Special Thanks to our Faculty: Nafisa Noor.
 
